@@ -1,51 +1,54 @@
 # 🎟️ Panel de Tickets
 
-Este es el código del panel para abrir los tickets.
+Este es el código del panel utilizado para crear y gestionar el sistema de tickets.
 
-> ⚠️ Es muy importante que tu bot tenga el permiso de **Administrador** para que el sistema funcione correctamente.
+> ⚠️ IMPORTANTE: El bot debe tener el permiso de **Administrador** para que el sistema funcione correctamente y sin errores.
 
-El bot necesita permisos para:
+---
+
+## 🔐 Permisos requeridos del bot
+
+El bot necesita acceso completo para poder gestionar el sistema de tickets correctamente:
 
 - ✅ Crear canales
 - ✅ Editar canales
 - ✅ Eliminar canales
-- ✅ Ver y enviar logs
-- ✅ Gestionar permisos
+- ✅ Ver y enviar mensajes en logs
+- ✅ Gestionar permisos de canales
 - ✅ Administrar categorías
+- ✅ Hacer menciones (ping)
+- ✅ Crear y cerrar tickets sin restricciones
 
-Además, el miembro del staff que vaya a usar el comando para colocar el panel de tickets necesitará el permiso de: `Manage Channels`
+💡 **Recomendación:** Darle el permiso de **Administrador** es la forma más segura y sencilla de evitar errores. Este permiso incluye automáticamente todo lo necesario y garantiza compatibilidad con futuras actualizaciones del sistema.
 
 ---
 
-# 🧩 Variable Necesaria
+## 👮 Permiso del staff
 
-El bot va a necesitar la siguiente variable JSON para funcionar correctamente:
+El miembro del staff que ejecute el comando para colocar el panel de tickets debe tener:
 
-|Nombre      | Valor       |
-|------------|-------------|
-|ticketstwis | {}          |
+- 🛠️ `Manage Channels`
 
-Si no creas esta variable, el sistema de tickets no podrá guardar la información correctamente.
+Sin este permiso, no podrá generar correctamente el panel ni configurar los canales del sistema.
 
 ---
 
-## ⚠️ Permisos del Bot
+## 🧩 Variable necesaria
 
-Se recomienda darle el permiso de **Administrador** al bot para evitar problemas con el sistema de tickets.
+| Nombre       | Valor |
+|--------------|------|
+| ticketstwis  | {}   |
 
-El bot necesita permisos para:
+---
 
-- ✅ Crear canales
-- ✅ Editar canales
-- ✅ Eliminar canales
-- ✅ Ver y enviar logs
-- ✅ Gestionar permisos
-- ✅ Administrar categorías
-- ✅ Hacer pings
-- ✅ Y otros permisos adicionales
+## 💻 Código
 
-El permiso de **Administrador** le dará automáticamente todos los permisos necesarios para que el sistema funcione correctamente.
+```
+!penel
+```
 
-Además, futuras versiones del sistema de tickets pueden agregar nuevas funciones que requieran permisos adicionales.
+---
 
-Por eso es mucho mejor darle el permiso de **Administrador** desde el inicio para ahorrarte problemas y dolores de cabeza en el futuro.
+# 🛠️ Soporte
+
+Si tienes problemas o necesitas ayuda para configurar nuevas opciones, puedes unirte al servidor de soporte de **[Sparkify World](https://sparkify-world.vercel.app/)**.
