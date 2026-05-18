@@ -44,6 +44,8 @@ Sin este permiso, no podrá generar correctamente el panel.
 ## 💻 Código
 
 ### código de !penel
+```js
+
 ```
 
 ---
