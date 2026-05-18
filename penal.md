@@ -29,7 +29,7 @@ El miembro del staff que ejecute el comando para colocar el panel de tickets deb
 
 - 🛠️ `Manage Channels`
 
-Sin este permiso, no podrá generar correctamente el panel ni configurar los canales del sistema.
+Sin este permiso, no podrá generar correctamente el panel.
 
 ---
 
