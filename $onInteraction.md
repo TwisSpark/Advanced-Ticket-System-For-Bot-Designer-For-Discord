@@ -7,6 +7,7 @@ Este sistema se encarga de manejar la interacción del panel de tickets y ejecut
 ## 💻 Código `$onInteraction`
 
 ```
+U
 
 ```
 
