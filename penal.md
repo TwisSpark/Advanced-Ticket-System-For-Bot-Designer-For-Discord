@@ -43,8 +43,7 @@ Sin este permiso, no podrá generar correctamente el panel.
 
 ## 💻 Código
 
-```
-!penel
+### código de !penel
 ```
 
 ---
