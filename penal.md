@@ -43,7 +43,7 @@ Sin este permiso, no podrá generar correctamente el panel.
 
 ## 💻 Código
 
-```js
+```
 $nomention
 $addContainer[ticketstwis;#673ab7]
 
