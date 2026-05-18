@@ -64,9 +64,10 @@ $addTextDisplay[- Necesito el permiso de Administrador para poder realizar mi tr
 $stop 
 $endif 
 
-$var[category;La id de la categoría]
-$var[rol_ping;La id del rol]
-$var[channel_id_logs;La id del canal de los logs]
+$var[category;] $c[<-La id de la categoría]
+$var[rol_ping;] $c[<-La id del rol]
+$var[channel_id_logs;] $c[<-La id del canal de los logs]
+
 $jsonParse[
 {
   "abrir_ticket": [
