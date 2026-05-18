@@ -268,4 +268,4 @@ $endif
 
 # 🛠️ Soporte
 
-Si tienes problemas o necesitas ayuda para configurar nuevas opciones, puedes unirte al servidor de soporte de **Sparkify**.
+Si tienes problemas o necesitas ayuda para configurar nuevas opciones, puedes unirte al servidor de soporte de **[Sparkify World](https://sparkify-world.vercel.app/)**.
