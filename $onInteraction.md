@@ -4,15 +4,6 @@ Este sistema se encarga de manejar la interacción del panel de tickets y ejecut
 
 ---
 
-## 💻 Código `$onInteraction`
-
-```
-U
-
-```
-
----
-
 ## ⚙️ Funcionamiento
 
 - Detecta la opción seleccionada en el menú del panel de tickets
@@ -34,6 +25,14 @@ No es necesario modificar esta parte del sistema, ya que cualquier cambio puede 
 ## 💡 Nota
 
 Puedes agregar más opciones al sistema editando el JSON (hasta 10 opciones soportadas).
+
+---
+
+## 💻 Código `$onInteraction`
+
+```
+
+``` 
 
 ---
 
