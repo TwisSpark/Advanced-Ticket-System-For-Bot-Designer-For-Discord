@@ -1,0 +1,109 @@
+{
+  "global_config": {
+    "emoji": "🎫",
+    "category": "",
+    "ping_roles": [],
+    "logs_channel": "",
+    "support_message": "Gracias por crear un ticket. Un miembro del staff te atenderá lo antes posible.",
+    "ticket_name": "ticket-{user}",
+    "max_tickets": 1
+  },
+  "tickets_options": [
+    {
+      "name": "Abrir Ticket",
+      "description": "Crea un ticket para recibir ayuda del staff.",
+      "emoji": "🎫",
+      "color": "#5865F2",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Soporte Técnico",
+      "description": "Problemas con el servidor, bots, permisos, errores o lag.",
+      "emoji": "🔧",
+      "color": "#3BA55D",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Reportes de Miembros",
+      "description": "Reporta usuarios por toxicidad, spam, trampas o acoso.",
+      "emoji": "🚨",
+      "color": "#ED4245",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Sugerencias e Ideas",
+      "description": "Comparte mejoras o nuevas ideas para el servidor.",
+      "emoji": "💡",
+      "color": "#FEE75C",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Apelaciones de Bans y Mutes",
+      "description": "Solicita la revisión de una sanción aplicada.",
+      "emoji": "⚖️",
+      "color": "#FAA61A",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Preguntas Generales",
+      "description": "Resuelve dudas sobre reglas o funcionamiento del servidor.",
+      "emoji": "❓",
+      "color": "#57F287",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Soporte de Compras",
+      "description": "Problemas con pagos, productos o beneficios adquiridos.",
+      "emoji": "🛒",
+      "color": "#EB459E",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Solicitud de Staff",
+      "description": "Postúlate o consulta sobre el equipo administrativo.",
+      "emoji": "🛡️",
+      "color": "#3498DB",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Alianzas",
+      "description": "Solicita una colaboración o alianza entre comunidades.",
+      "emoji": "🤝",
+      "color": "#9B59B6",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Recuperación de Cuenta",
+      "description": "Recibe ayuda para recuperar el acceso a tu cuenta.",
+      "emoji": "🔑",
+      "color": "#1ABC9C",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Eventos y Sorteos",
+      "description": "Consultas o problemas relacionados con eventos y sorteos.",
+      "emoji": "🎉",
+      "color": "#E67E22",
+      "category": "",
+      "ping_roles": []
+    },
+    {
+      "name": "Otros Asuntos",
+      "description": "Si tu consulta no encaja en ninguna categoría anterior.",
+      "emoji": "📩",
+      "color": "#95A5A6",
+      "category": "",
+      "ping_roles": []
+    }
+  ]
+}
