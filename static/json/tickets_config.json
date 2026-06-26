@@ -1,4 +1,7 @@
 {
+ "system_config": {
+    "color": "#f1c40f"
+  },
   "global_config": {
     "emoji": "🎫",
     "category": "",
