@@ -109,4 +109,3 @@ $addTextDisplay[-# Por favor, elige la categoría que mejor describe tu problema
 # 🛠️ Soporte
 
 Si tienes problemas o necesitas ayuda para configurar nuevas opciones, puedes unirte al servidor de soporte de **[Sparkify World](https://sparkify-world.vercel.app/)**.
-
