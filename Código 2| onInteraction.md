@@ -230,9 +230,8 @@ $description[Para cerrar este ticket, primero debes reclamarlo.
 $color[#673ab7]
 $else 
 
-$sendEmbedMessage[$channelID;;🔐 Ticket Cerrado;;- Este ticket se cerrará y eliminará en 10 segundos;#673ab7;$nickname;$authorAvatar;$serverName[$guildID];$serverIcon;;;yes]
-$editChannelPerms[$channelID;$guildID;-sendmessages;-createprivatethreads;-createpublicthreads]
-
+$sendEmbedMessage[$channelID;;🔐 Ticket Cerrado;;- Este ticket se cerrará y eliminará en 10 segundos;#673ab7;$nickname;$authorAvatar;$serverName[$guildID];$serverIcon;;;yes]$editChannelPerms[$channelID;$guildID;-readmessages;-sendmessages;-createprivatethreads;-createpublicthreads]
+$editChannelPerms[$channelID;$var[userid];+readmessages;+sendmessages]
 
 $if[$jsonExists[info;ticket_logs]==true]
 $async[channel_logs]
