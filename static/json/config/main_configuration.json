@@ -1,12 +1,13 @@
 {
   "version": "1.0.0",
-  "color": "#f1c40f",
-  "emoji": "🎫",
   "category_id": "",
   "ping_role_ids": [],
   "logs_channel_id": "",
   "support_message": "Gracias por crear un ticket. Un miembro del staff te atenderá lo antes posible.",
   "ticket_name": "ticket-{user}",
+  "color": "#f1c40f",
+  "emoji": "🎫",
+  "banner": "https://i.imgur.com/4OQ1o6T.png",
   "max_tickets": 1,
   "footer": "Sistema creado por TwisSpark"
 }
