@@ -233,6 +233,7 @@ $else
 $sendEmbedMessage[$channelID;;🔐 Ticket Cerrado;;- Este ticket se cerrará y eliminará en 10 segundos;#673ab7;$nickname;$authorAvatar;$serverName[$guildID];$serverIcon;;;yes]
 $editChannelPerms[$channelID;$guildID;-sendmessages;-createprivatethreads;-createpublicthreads]
 
+
 $if[$jsonExists[info;ticket_logs]==true]
 $async[channel_logs]
 $replyIn[9s]
