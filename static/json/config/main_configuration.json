@@ -1,14 +1,12 @@
 {
-  "system_config": {
-    "color": "#f1c40f"
-  },
-  "global_config": {
-    "emoji": "🎫",
-    "category_id": "",
-    "ping_role_ids": [],
-    "logs_channel_id": "",
-    "support_message": "Gracias por crear un ticket. Un miembro del staff te atenderá lo antes posible.",
-    "ticket_name": "ticket-{user}",
-    "max_tickets": 1
-  }
+  "version": "1.0.0",
+  "color": "#f1c40f",
+  "emoji": "🎫",
+  "category_id": "",
+  "ping_role_ids": [],
+  "logs_channel_id": "",
+  "support_message": "Gracias por crear un ticket. Un miembro del staff te atenderá lo antes posible.",
+  "ticket_name": "ticket-{user}",
+  "max_tickets": 1,
+  "footer": "Sistema creado por TwisSpark"
 }
