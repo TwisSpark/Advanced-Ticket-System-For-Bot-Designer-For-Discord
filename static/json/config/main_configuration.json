@@ -4,9 +4,9 @@
   },
   "global_config": {
     "emoji": "🎫",
-    "category": "",
-    "ping_roles": [],
-    "logs_channel": "",
+    "category_id": "",
+    "ping_role_ids": [],
+    "logs_channel_id": "",
     "support_message": "Gracias por crear un ticket. Un miembro del staff te atenderá lo antes posible.",
     "ticket_name": "ticket-{user}",
     "max_tickets": 1
