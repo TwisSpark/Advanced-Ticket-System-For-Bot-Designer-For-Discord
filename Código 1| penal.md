@@ -45,6 +45,7 @@ Sin este permiso, no podrá generar correctamente el panel.
 
 ```
 
+```
 ---
 
 # 🛠️ Soporte
